@@ -5,4 +5,3 @@ Analisa data yang di enkapsulasi :
 1. Id dari player
 2. Koordinat posisi player
 3. Status dari player
-4. Skor
